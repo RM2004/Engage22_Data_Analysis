@@ -1,1 +1,1 @@
-web: streamlit run Final_Analysis.py
+web: sh setup.sh && streamlit run Final_Analysis.py
