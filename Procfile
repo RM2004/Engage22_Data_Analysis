@@ -1,0 +1,1 @@
+web: streamlit run Final_Analysis.py
