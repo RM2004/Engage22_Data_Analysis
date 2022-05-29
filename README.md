@@ -52,15 +52,24 @@ The fitering can be done on the basis of Price, Mieage, Seating Capacity, Fuel T
 
 * **Frequenty Asked Quetions**
 
-This section try to answer some frequently asked questions by doing proper analysis about it
+This section try to answer some frequently asked questions by doing proper analysis about it.
+
 The questions are as follows:-
+
 Which Fuel Type is used in most of the Automobiles?
+
 Show the range of Ex-Showroom Price
+
 Number of Doors in most of the Automobiles
+
 Which Car Body Type is most popular?
+
 Relation between Company and Car Ex-Showroom Price
+
 What is the Basic Warranty applied to Automobiles?
+
 Correlation between the different features of Automobile
+
 Pie Chart on the car production by different Companies
 
 ### Techstack
