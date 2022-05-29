@@ -52,7 +52,7 @@ The fitering can be done on the basis of Price, Mieage, Seating Capacity, Fuel T
 
 * **Frequenty Asked Quetions**
 
-This try to answer some frequently asked questions by doing proper analysis about it
+This section try to answer some frequently asked questions by doing proper analysis about it
 The questions are as follows:-
 Which Fuel Type is used in most of the Automobiles?
 Show the range of Ex-Showroom Price
