@@ -18,23 +18,23 @@ The application contains six segments which an user can explore.
 
 The six sections are as follows:
 
-* ###Customer Segment
+* ##Customer Segment
 
 This section displays the overall statistics of the number of cars being produced by the company and the number of cars having that respective price. These details are being displayed using the graphs.
 
 This will help the user to know that how vast the dataset is and out of so many options user can get out his / her desired car
 
-* ###Car Specification 
+* ##Car Specification 
 
 This section gives emphasis on the specifiactions of the car. These specifications include Engine Type, Fuel Type, Tank Capacity, Mileage, Drivetrain and Body Type.
 
 These are displayed using the graphs expaining these different specificatins. The following graphs gives the detailed analysis about cars. The factors which are mainly responsible for decision making of user are represented in these graphs.
 
-* ###Price Anaysis
+* ##Price Anaysis
 
 This section gives us the relation between three main points which a customer thinks about before buying a car. These are displayed using three plots First between Engine Type (Displacement) and Price , Second between Price and Mileage and Third between Body Type and Price.
 
-* ###Other Specification
+* ##Other Specification
 
 This section contains two 3-Dimensional plots and Corelation plot. 
 
@@ -44,13 +44,13 @@ Second 3-D plot is been plotted between Dimension of Car Body. In this when we k
 
 A Corelation between different parameters like Price , Displacement ,etc is displayed which will provide the user details regarding different specifiactions of the car.
 
-* ###Recommendation Engine 
+* ##Recommendation Engine 
 
 This section is helpful for the user as in this filters are there which can suggest the user about all the cars which fall under the near by range of his/ her input.
 
 The fitering can be done on the basis of Price, Mieage, Seating Capacity, Fuel Tank Capacity, Boot Space , Transmission Type and Child Safety Lock.
 
-* ###Frequenty Asked Quetions
+*##Frequenty Asked Quetions
 
 This try to answer some frequently asked questions by doing proper analysis about it
 The questions are as follows:-
